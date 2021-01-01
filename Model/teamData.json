@@ -1,0 +1,16 @@
+[
+    {
+        "id": 25,
+        "team": "Arsenal",
+        "stadium": "Emirates Stadium",
+        "record": "5-1",
+        "imageName": "arsenal"
+        },
+    {
+        "id": 24,
+        "team": "Chelsea",
+        "stadium": "Stamford Bridge",
+        "record": "1-5",
+        "imageName": "chelsea"
+    }
+]
